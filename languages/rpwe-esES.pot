@@ -27,87 +27,87 @@ msgstr ""
 msgid ""
 "An advanced widget that gives you total control over the output of your "
 "site’s most recent Posts."
-msgstr ""
+msgstr "Un widget avanzado que proporciona total control sobre las "Entradas recientes" de su sitio"
 
 #: classes/widget.php:35
 msgid "Recent Posts Extended"
-msgstr ""
+msgstr "Entradas recientes extendidas"
 
 #: includes/form.php:17 includes/form.php:119
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #: includes/form.php:24
 msgid "Title URL"
-msgstr ""
+msgstr "URL del título"
 
 #: includes/form.php:31
 msgid "CSS ID"
-msgstr ""
+msgstr "CSS ID"
 
 #: includes/form.php:38
 msgid "CSS Class"
-msgstr ""
+msgstr "CSS Class"
 
 #: includes/form.php:45
 msgid "HTML or text before the recent posts"
-msgstr ""
+msgstr "HTML o texto antes de las entradas recientes"
 
 #: includes/form.php:52
 msgid "HTML or text after the recent posts"
-msgstr ""
+msgstr "HTML o texto después de las entradas recientes"
 
 #: includes/form.php:64
 msgid "Ignore sticky posts"
-msgstr ""
+msgstr "Ignorar entradas fijas (sticky)"
 
 #: includes/form.php:71
 msgid "Exclude current post"
-msgstr ""
+msgstr "Excluir la entrada actual"
 
 #: includes/form.php:77
 msgid "Post Types"
-msgstr ""
+msgstr "Tipos de entradas"
 
 #: includes/form.php:93
 msgid "Post Status"
-msgstr ""
+msgstr "Estado de las entradas"
 
 #: includes/form.php:104
 msgid "Order"
-msgstr ""
+msgstr "Orden"
 
 #: includes/form.php:107
 msgid "Descending"
-msgstr ""
+msgstr "Descendiente"
 
 #: includes/form.php:108
 msgid "Ascending"
-msgstr ""
+msgstr "Ascendiente"
 
 #: includes/form.php:114
 msgid "Orderby"
-msgstr ""
+msgstr "Ordenar por"
 
 #: includes/form.php:117
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: includes/form.php:118
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: includes/form.php:120
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 #: includes/form.php:121
 msgid "Modified"
-msgstr ""
+msgstr "Modificado"
 
 #: includes/form.php:122
 msgid "Random"
-msgstr ""
+msgstr "Aleatorio"
 
 #: includes/form.php:123
 msgid "Comment Count"
@@ -119,15 +119,15 @@ msgstr ""
 
 #: includes/form.php:130
 msgid "Limit to Category"
-msgstr ""
+msgstr "Limitar a la categoría"
 
 #: includes/form.php:146
 msgid "Limit to Tag"
-msgstr ""
+msgstr "Limitar a la etiqueta"
 
 #: includes/form.php:162
 msgid "Limit to Taxonomy"
-msgstr ""
+msgstr "Limitar a la taxonomía"
 
 #: includes/form.php:165
 msgid "Ex: category=1,2,4&amp;post_tag=6,12"
@@ -135,125 +135,126 @@ msgstr ""
 
 #: includes/form.php:166
 msgid "Available: "
-msgstr ""
+msgstr "Disponible"
 
 #: includes/form.php:175
 msgid "Number of posts to show"
-msgstr ""
+msgstr "Número de entradas para mostrar"
 
 #: includes/form.php:182
 msgid "Offset"
-msgstr ""
+msgstr "Compensar"
 
 #: includes/form.php:185
 msgid "The number of posts to skip"
-msgstr ""
+msgstr "Número de entradas omitidas"
 
 #: includes/form.php:193
 msgid "Display Thumbnail"
-msgstr ""
+msgstr "Mostrar miniatura"
 
 #: includes/form.php:199
 msgid "Thumbnail (height,width,align)"
-msgstr ""
+msgstr "Miniatura (altura, ancho, alineación)"
 
 #: includes/form.php:204
 msgid "Left"
-msgstr ""
+msgstr "Izquierda"
 
 #: includes/form.php:205
 msgid "Right"
-msgstr ""
+msgstr "Derecha"
 
 #: includes/form.php:206
 msgid "Center"
-msgstr ""
+msgstr "Centro"
 
 #: includes/form.php:212
 msgid "Default Thumbnail"
-msgstr ""
+msgstr "Miniatura por defecto"
 
 #: includes/form.php:215
 msgid "Leave it blank to disable."
-msgstr ""
+msgstr "Dejar en blanco para desactivar"
 
 #: includes/form.php:223
 msgid "Display Excerpt"
-msgstr ""
+msgstr "Mostrar extracto"
 
 #: includes/form.php:229
 msgid "Excerpt Length"
-msgstr ""
+msgstr "Extensión del extracto"
 
 #: includes/form.php:237
 msgid "Display Readmore"
-msgstr ""
+msgstr "Mostrar Leer más"
 
 #: includes/form.php:243
 msgid "Readmore Text"
-msgstr ""
+msgstr "Texto de Leer más"
 
 #: includes/form.php:251
 msgid "Display Comment Count"
-msgstr ""
+msgstr "Mostrar contador de comentarios"
 
 #: includes/form.php:258
 msgid "Display Date"
-msgstr ""
+msgstr "Mostrar fecha"
 
 #: includes/form.php:265
 msgid "Display Modification Date"
-msgstr ""
+msgstr "Mostrar fecha de modificación"
 
 #: includes/form.php:272
 msgid "Use Relative Date. eg: 5 days ago"
-msgstr ""
+msgstr "Usar fecha relativa. ej: hace 5 días"
 
 #: includes/form.php:284
 msgid "Use Default Styles"
-msgstr ""
+msgstr "Usar estilos por defecto"
 
 #: includes/form.php:290
 msgid "Custom CSS"
-msgstr ""
+msgstr "CSS personalizadas"
 
 #: includes/form.php:293
 msgid ""
 "If you turn off the default styles, you can use these css code to customize "
 "the recent posts style."
-msgstr ""
+msgstr "Si deshabilita los estilos por defecto, puede utilizar código CSS para personalizar "
+"los estilos de las entradas recientes"
 
 #: includes/functions.php:22
 msgid "Recent Posts"
-msgstr ""
+msgstr " Entradas recientes"
 
 #: includes/functions.php:48
 msgid "Read More &raquo;"
-msgstr ""
+msgstr "Leer más"
 
 #: includes/functions.php:170
 msgid "Permalink to %s"
-msgstr ""
+msgstr "Permalink a %s"
 
 #: includes/functions.php:175 includes/functions.php:181
 msgid "%s ago"
-msgstr ""
+msgstr "hace %s"
 
 #: includes/functions.php:188
 msgid "No Comments"
-msgstr ""
+msgstr "Sin comentarios"
 
 #: includes/functions.php:190
 msgid "%s Comments"
-msgstr ""
+msgstr "%s comentarios"
 
 #: includes/functions.php:192
 msgid "1 Comment"
-msgstr ""
+msgstr "1 Comentario"
 
 #. Plugin Name of the plugin/theme
 msgid "Recent Posts Widget Extended"
-msgstr ""
+msgstr "Widget Entradas Recientes Extendidas"
 
 #. Plugin URI of the plugin/theme
 msgid "https://themephe.com/items/recent-posts-widget-extended/"
@@ -263,7 +264,8 @@ msgstr ""
 msgid ""
 "Enables advanced widget that gives you total control over the output of "
 "your site’s most recent Posts."
-msgstr ""
+msgstr "Habilita un widget avanzado que le proporcionará un control total "
+"sobre las Entradas recientes de su sitio"
 
 #. Author of the plugin/theme
 msgid "Satrya"
